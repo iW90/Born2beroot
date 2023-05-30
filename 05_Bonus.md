@@ -4,8 +4,6 @@
 
 Já foram feitas durante a instalação do Debian.
 
-
-
 ## Parte 02 - Instalar um serviço de sua escolha: Fail2Ban
 
 Um serviço que dá uma camada extra de proteção a qualquer outro serviço que se conecte por senha com seu servidor. O Fail2Ban encontra tentativas de login com falha usando o log do seu serviço e bloqueia novas tentativas de login desses IPs. Ao fazer isso, desencoraja hackers e pessoas com intenções maliciosas de acessar seu servidor por completo.
