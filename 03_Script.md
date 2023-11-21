@@ -1,6 +1,6 @@
 # CRIANDO O SCRIPT
 
-Devemos criar um script chamado `monitoring.sh`. que deve ser desenvolvido em Bash.
+Devemos criar um script chamado `monitoring.sh` que deve ser desenvolvido em Bash.
 - Será o comando `Wall` que vai spammar no terminal de todos que estiverem logados no servidor.
 - Será o pacote **Cron** que vai cronometrar o tempo para que **Wall** seja executado a cada 10 minutos.
 
