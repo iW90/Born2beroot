@@ -75,5 +75,5 @@ Devemos criar um script chamado `monitoring.sh.` que deve ser desenvolvido em Ba
 1. `sudo nano /home/monitoring.sh`: Cria o arquivo que deverá ser executado a cada 10 minutos.
 	- Preencha seu script.
 2. `sudo crontab -u root -e`: Abre o arquivo de cronometragem.
-	- Após a linha **# m h dom mon dow command**, acrescente: `*/10 * * * * bash /home/sleep.sh && /home/monitoring.sh`
+	- Após a linha **# m h dom mon dow command**, acrescente: `*/10 * * * * bash /home/sleep.sh && bash /home/monitoring.sh`
 3. `sudo crontab -u root -l`: Verifica a agenda.
