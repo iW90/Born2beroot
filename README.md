@@ -1,6 +1,6 @@
 # 42 Cursus - Born2beroot
 
-<img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="completion-with-bonus-badge" align="left">
+<img src="./assets/born2berootm.png" alt="completion-with-bonus-badge" align="left">
 
 O Born2beroot é um projeto de administração de sistema cujo objetivo é criar e configurar um servidor virtual usando o Linux. É necessário instalar o servidor em uma máquina virtual, configurar as permissões de usuário, criar a política de senha e instalar e configurar alguns softwares como SSH, firewall e outros utilitários de administração de sistema, tudo sem o uso de uma interface gráfica, usando somente linhas de comando. Além disso, é criado um script que, a cada 10 minutos, informa as configurações do sistema.
 
